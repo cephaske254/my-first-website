@@ -1,0 +1,27 @@
+body {
+    background: #ccc;
+}
+h1 {
+    color: white;
+}
+
+.heading1 {
+    color: red;
+    text-decoration: underline;
+
+}
+
+.heading2 {
+    color:green;
+}
+
+#heading3 {
+    color: indigo;
+}
+.heading4 {
+    color: cyan;
+}
+
+.heading4, .heading2 {
+    text-transform: capitalize;
+}
